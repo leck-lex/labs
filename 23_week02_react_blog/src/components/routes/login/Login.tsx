@@ -60,7 +60,7 @@ function Login(): JSX.Element {
                         </label>
                         <input
                             ref={refEmail}
-                            type="text"
+                            type="email"
                             name="email"
                             id="email"
                             required
